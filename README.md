@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Backend, Node.js,Express.js**
 
-- 👨‍💻 All of my projects are available at [Roshan.com]()
+- 👨‍💻 All of my projects are available at [Roshan.com](https://drive.google.com/file/d/1D5MtSuueR_UNRb7P_5swhdcjwr6aqjGg/view?usp=drivesdk)
 
 - 💬 Ask me about **Java-script,React,Tailwind ,css,HTML**
 
-- 📫 How to reach me **roshantanpure3517@gmail.com**
+- 📫 How to reach me **tanpureroshan1119@gmail.com**
 
 - ⚡ Fun fact **I'm a marathi coder who loves to mix code with a little bit of sweetness**
 
